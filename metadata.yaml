@@ -1,0 +1,26 @@
+_repo: A-Master-Hand--The-Story-of-a-Crime_33228
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dallas, Richard
+    gutenberg_agent_id: '36276'
+    url: http://www.gutenberg.org/2009/agents/36276
+description: ''
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Detective and mystery stories'
+title: 'A Master Hand: The Story of a Crime'
+url: http://www.gutenberg.org/ebooks/33228
